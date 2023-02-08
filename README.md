@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olufemi Odumuyiwa
-- 👀 I’m interested in UIUX projects/jobs
+- 👀 I’m interested in DevOps projects/jobs
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects that will improve humanity
 - 📫 You can reach me through my email femiaugustine@outlook.com or Skype: phemmex
